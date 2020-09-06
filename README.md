@@ -1,5 +1,5 @@
 # docker-flask
-Guide for dockerising sample Flask application
+Guide for dockerizing sample Flask application
 
 
 **Step 1:** docker build -t docker-flask:latest .
